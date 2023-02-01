@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Expense Wallet Vcriate Assignment.iml" filepath="$PROJECT_DIR$/.idea/Expense Wallet Vcriate Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpenseWallet/ExpenseWallet.iml" filepath="$PROJECT_DIR$/ExpenseWallet/ExpenseWallet.iml" />
+    </modules>
+  </component>
+</project>
